@@ -1,5 +1,8 @@
 <html>
-<body>
-<h2>Carpe Diem</h2>
-</body>
+    <head>
+        <title>Carpe Diem</title>
+    </head>
+    <body>
+        <h2>Why we love Carpe Diem?</h2>
+    </body>
 </html>

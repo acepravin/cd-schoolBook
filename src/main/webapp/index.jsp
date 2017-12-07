@@ -1,3 +1,4 @@
+<html lang="en">
 <title>Carpe Diem School Book</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,11 +22,9 @@
   <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> 
   <div class="w3-center">
   <h1>School Book</h1>
-  <h4 class="w3-xxxlarge w3-animate-bottom">by Carpe Diem</h4>
+  <h4>by Carpe Diem Preparatory Academy students</h4>
   </div>
 </header>
 
 </body>
 </html>
-
-

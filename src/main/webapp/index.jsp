@@ -21,10 +21,20 @@
 <header class="w3-container w3-theme w3-padding" id="myHeader">
   <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> 
   <div class="w3-center">
-  <h1>School Book</h1>
+  <h1>ToCarpe</h1>
   <h4>by Carpe Diem Preparatory Academy students</h4>
   </div>
 </header>
+
+<ul>
+<li>Troy Harris</li>
+<li>Tylee Jones</li>
+<li>T'Kyah Jones</li>
+<li>Michael Uzo-Ngerem</li>
+</ul>
+
+<p><font size="12" font color="green"><b>Happy holidays!!</b></font></p>
+<iframe src="https://giphy.com/embed/TlK63EsOlwnqg7hiYec" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 </body>
 </html>

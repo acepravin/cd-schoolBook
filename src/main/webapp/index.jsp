@@ -8,19 +8,22 @@
 <body>
 
 <!-- Header -->
-<header class="w3-container w3-theme" id="myHeader">
+<div class="header_style" id="myHeader">
   <div align="center">
   <h1>ToCarpe</h1>
   <h4>by Carpe Diem Preparatory Academy students</h4>
   </div>
-</header>
+</div>
 
+<div>
 <ul>
 <li>Troy Harris</li>
 <li>Tylee Jones</li>
 <li>T'Kyah Jones</li>
 <li>Michael Uzo-Ngerem</li>
+<li>Montez Ford</li>
 </ul>
+</div>
 
 <p class="title_message"><font size="12" ><b>Welcome To The New Year Make A Fresh Start </b></font></p>
 <iframe src= "http://bit.ly/2E8odMS" width="800" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>

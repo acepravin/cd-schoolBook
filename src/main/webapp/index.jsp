@@ -14,7 +14,19 @@
   <h4>by Carpe Diem Preparatory Academy students</h4>
   </div>
 </div>
-
+  
+<div width="100%"> 
+<h2 align="center" >
+Keep Warm 
+</h2> 
+<div align"center"> 
+<img src="https://d6vze32yv269z.cloudfront.net/organizations/4f25d056-aa5b-461a-af52-70ecb0badec2/blocks/334335ac-30b6-461c-a837-027be71e867e/754dmw-Winter-Dress-Infographic.jpg" align="middle" /> 
+</div>
+<p align="center">
+It's winter time and cold outside make sure to wear warm clothes and come to school if you can 
+</p>
+</div>
+  
 <div>
 <ul>
 <li>Troy Harris</li>
